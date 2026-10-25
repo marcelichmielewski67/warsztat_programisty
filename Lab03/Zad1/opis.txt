@@ -1,0 +1,2 @@
+> nadpisuje cala zawartosc pliku
+>> dodaje kolejna linie do pliku
